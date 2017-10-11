@@ -35,3 +35,4 @@ class AffiliationRepository extends TranslatableRepository
 		return $this->getResult($qb);
 	}
 }
+   
